@@ -34,7 +34,7 @@ import io
 '''
 2. 将xlsx文件的后缀修改为zip
 '''
-filename = '绍兴市'
+filename = 'a'
 os.rename(filename + '.xlsx', filename + '.zip')
 
 
